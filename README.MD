@@ -33,7 +33,7 @@ GIF created with
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I faced project submission issues when sharing my project on github through android studio
 
 ## License
 
